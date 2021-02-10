@@ -1,0 +1,17 @@
+name: My distill website
+title: Fabricio Almeida-Silva
+description: |
+  Fabricio Almeida-Silva's personal website
+output_dir: docs
+navbar:
+  right:
+    - text: Home
+      href: index.html
+    - text: Blog
+      href: blog.html
+    - icon: fab fa-twitter
+      href: 'https://twitter.com/almeidasilvaf'
+    - icon: fab fa-github
+      href: 'https://github.com/almeidasilvaf'
+output: 'distill::distill_article'
+theme: theme.css

@@ -1,0 +1,38 @@
+---
+title: "Fabrício Almeida-Silva"
+image: "profile.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/almeidasilvaf"
+  - label: GitHub
+    url: "https://github.com/almeidasilvaf"
+  - label: Email
+    url: "mailto:fabricio_almeidasilva.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+### About me
+
+I am a computational biologist interested in using and developing algorithms to study the evolution of plant genomes and gene networks.
+
+---
+  
+### Education
+
+**MSc. Plant Biotechnology** | Universidade Estadual do Norte Fluminense Darcy Ribeiro, in progress
+
+**Biological Sciences** | Universidade Estadual do Norte Fluminense Darcy Ribeiro, 2019
+
+---
+
+### Publications
+
+1. **Almeida-Silva, F.**, Moharana, K. C., & Venancio, T. M. (2021). The state of the art in soybean transcriptomics resources and gene coexpression networks. *in silico Plants*. https://doi.org/10.1093/insilicoplants/diab005
+
+2. Sangi, S., Araújo, P. M., Coelho, F. S., Gazara, R. K., **Almeida-Silva, F.**, Venancio, T. M., & Grativol, C. (2021). Genome-Wide Analysis of the COBRA-Like Gene Family Supports Gene Expansion through Whole-Genome Duplication in Soybean (*Glycine max*). *Plants*, 10(1), 167. https://doi.org/10.3390/plants10010167
+
+3. **Almeida-Silva, F.**, Moharana, K. C., Machado, F. B., & Venancio, T. M. (2020). Exploring the complexity of soybean (*Glycine max*) transcriptional regulation using global gene co-expression networks. *Planta*, 252(6), 1-12. https://doi.org/10.1007/s00425-020-03499-8
+
+4. Machado, F.B., Moharana, K.C., **Almeida‐Silva, F.**, Gazara, R.K., Pedrosa‐Silva, F., Coelho, F.S., Grativol, C. and Venancio, T.M. (2020), Systematic analysis of 1298 RNA‐Seq samples and construction of a comprehensive soybean (*Glycine max*) expression atlas. Plant J, 103: 1894-1909. https://doi.org/10.1111/tpj.14850
