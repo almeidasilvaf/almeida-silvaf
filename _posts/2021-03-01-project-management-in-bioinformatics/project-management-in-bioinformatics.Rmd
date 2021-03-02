@@ -3,9 +3,9 @@ title: "Project management in bioinformatics"
 description: |
   Tips on how to manage projects in bioinformatics and computational biology
 author:
-  - name: almeidasilvaf
+  - name: Fabrício Almeida-Silva
     url: https:://twitter.com/almeidasilvaf
-base_url: https://almeidasilvaf.github.io/almeida-silvaf/
+base_url: https://almeidasilvaf.github.io/home/
 date: 2021-03-01
 preview: cover.png
 twitter:
@@ -32,7 +32,7 @@ meta() %>%
   meta_social(
     title = "Project management in bioinformatics",
     description = paste(
-      "Best practices for handling bioinformatics projects",
+      "Best practices for handling bioinformatics projects,",
       "February 2021"
     ),
     url = "https://almeidasilvaf.github.io/Project_management/project_management.html",

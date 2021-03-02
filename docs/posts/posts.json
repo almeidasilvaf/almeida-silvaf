@@ -5,7 +5,7 @@
     "description": "Tips on how to manage projects in bioinformatics and computational biology",
     "author": [
       {
-        "name": "almeidasilvaf",
+        "name": "Fabrício Almeida-Silva",
         "url": "https:://twitter.com/almeidasilvaf"
       }
     ],
@@ -17,9 +17,11 @@
       "github"
     ],
     "contents": "\nProject management in bioinformatics\nAs we advance in bioinformatics research, we develop some practices to manage our projects and handle the deadlines and productivity goals. However, these project management skills are often not taught to new students and researchers. Thus, new researchers can have very bad habits at the beginning of their projects that can be hard to fix afterwards. Here, I highlighted my list of most important management tasks for bioinformatics projects, with examples of dos and don’ts that should be incorporated in researchers’ routines.\n\n\n\n\n.shareagain-bar {\n--shareagain-foreground: rgb(255, 255, 255);\n--shareagain-background: rgba(0, 0, 0, 0.5);\n--shareagain-facebook: none;\n--shareagain-linkedin: none;\n--shareagain-pinterest: none;\n--shareagain-pocket: none;\n--shareagain-reddit: none;\n}\n\nfitvids('.shareagain', {players: 'iframe'});\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-03-01T23:07:34-03:00",
-    "input_file": {}
+    "preview": "posts/2021-03-01-project-management-in-bioinformatics/cover.png",
+    "last_modified": "2021-03-02T13:59:40-03:00",
+    "input_file": "project-management-in-bioinformatics.utf8.md",
+    "preview_width": 1325,
+    "preview_height": 744
   },
   {
     "path": "posts/2021-02-09-welcome/",
