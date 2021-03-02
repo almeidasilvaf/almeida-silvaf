@@ -2,5 +2,5 @@
 title: "Blog"
 listing: 
     posts:
-    - 2021-02-09-welcome
+    - 2021-03-01-project-management-in-bioinformatics
 ---

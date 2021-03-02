@@ -1,0 +1,60 @@
+---
+title: "Project management in bioinformatics"
+description: |
+  Tips on how to manage projects in bioinformatics and computational biology
+author:
+  - name: almeidasilvaf
+    url: https:://twitter.com/almeidasilvaf
+base_url: https://almeidasilvaf.github.io/almeida-silvaf/
+date: 2021-03-01
+preview: cover.png
+twitter:
+    site: "@almeidasilvaf"
+    creator: "@almeidasilvaf"
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - project management
+  - bioinformatics
+  - rmarkdown
+  - github
+---
+
+## Project management in bioinformatics
+
+As we advance in bioinformatics research, we develop some practices to manage our projects and handle the deadlines and productivity goals. However, these project management skills are often not taught to new students and researchers. Thus, new researchers can have very bad habits at the beginning of their projects that can be hard to fix afterwards. Here, I highlighted my list of most important management tasks for bioinformatics projects, with examples of dos and don'ts that should be incorporated in researchers' routines.
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "almeidasilvaf/Project_management") %>% 
+  meta_social(
+    title = "Project management in bioinformatics",
+    description = paste(
+      "Best practices for handling bioinformatics projects",
+      "February 2021"
+    ),
+    url = "https://almeidasilvaf.github.io/Project_management/project_management.html",
+    image = "https://almeidasilvaf.github.io/Project_management/cover.png",
+    image_alt = paste(
+      "Title slide of Project management in bioinformatics,", 
+      "presented in February 2021 by Fabrício Almeida-Silva"
+    ),
+    og_type = "website",
+    og_author = "Fabrício Almeida-Silva",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@almeidasilvaf",
+    twitter_site = "@almeidasilvaf"
+  )
+```
+
+
+```{r xaringan-slides, echo = FALSE}
+xaringanExtra::use_share_again()
+xaringanExtra::style_share_again(
+  share_buttons = c("twitter")
+)
+xaringanExtra::embed_xaringan(url = "https://almeidasilvaf.github.io/Project_management/project_management.html",
+                              ratio = "16:9")
+```
